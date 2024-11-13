@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+	<CustomTriggers>
+		<Trigger Active="True" Regex="AddCombatant 03.*(?i)(Albin The Ashen|Barbastelle|Bloody Mary|Dark Helmet|Flame Sergeant Dalvag|Gatling|Leech King|Monarch Ogrefly|Myradrosh|Naul|Ovjang|Phecda|Sewer Syrup|Skogs Fru|Stinging Sophie|Vuokho|White Joker):00:32:0\d{1,4}:.*" SoundData="B rank, $1" SoundType="3" CategoryRestrict="False" Category="A Realm Reborn Hunt" Timer="False" TimerName="" Tabbed="False" />
+		<Trigger Active="True" Regex="AddCombatant 03.*(?i)(Alectryon|Cornu|Dalvag's Final Flame|Forneus|Ghede Ti Malice|Girtab|Hellsclaw|Kurrea|Maahes|Marberry|Marraco|Melt|Nahn|Sabotender Bailarina|Unktehi|Vogaal Ja|Zanig'oh):00:32:0\d{1,4}:.*" SoundData="A rank, $1" SoundType="3" CategoryRestrict="False" Category="A Realm Reborn Hunt" Timer="False" TimerName="" Tabbed="False" />
+		<Trigger Active="True" Regex="AddCombatant 03.*(?i)(Croque-Mitaine|Croakadile|Bonnacon|The Garlok|Nandi|Chernobog|Brontes|Zona Seeker|Lampalagua|Nunyunuwi|Minhocao|Laideronnette|Mindflayer|Wulgaru|Thousand-cast Theda|Safat|Agrippa The Mighty):00:32:0\d{1,4}:.*" SoundData="S rank, $1" SoundType="3" CategoryRestrict="False" Category="A Realm Reborn Hunt" Timer="False" TimerName="" Tabbed="False" />
+	</CustomTriggers>
+</Config>

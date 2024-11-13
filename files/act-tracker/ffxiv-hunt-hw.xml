@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+	<CustomTriggers>
+		<Trigger Active="True" Regex="AddCombatant 03.*(?i)(Agathos|Bune|Campacti|Enkelados|Lord Of The Wyverns|Lyuba|Mirka|Pylraster|Sisiutl|Slipkinx Steeljoints|Stench Blossom|Stolas):00:3C:0\d{1,4}:.*" SoundData="A Rank, $1" SoundType="3" CategoryRestrict="False" Category="Havensward Hunt" Timer="False" TimerName="" Tabbed="False" />
+		<Trigger Active="True" Regex="AddCombatant 03.*(?i)(Alteci|False Gigantopithecus|Gnath Cometdrone|Kreutzet|Lycidas|Omni|Pterygotus|Sanu Vali Of Dancing Wings|Scitalis|Squonk|The Scarecrow|Thextera):00:3C:0\d{1,4}:.*" SoundData="B Rank, $1" SoundType="3" CategoryRestrict="False" Category="Havensward Hunt" Timer="False" TimerName="" Tabbed="False" />
+		<Trigger Active="True" Regex="AddCombatant 03.*(?i)(Kaiser Behemoth|Senmurv|Gandarewa|Bird of Paradise|The Pale Rider|Leucrotta):00:3C:0\d{1,4}:.*" SoundData="S Rank, $1" SoundType="3" CategoryRestrict="False" Category="Havensward Hunt" Timer="False" TimerName="" Tabbed="False" />
+	</CustomTriggers>
+</Config>

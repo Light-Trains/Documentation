@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+	<CustomTriggers>
+		<Trigger Active="True" Regex="AddCombatant 03.*(?i)(Daivadipa|Chi):00:5A:0\d{1,4}:.*" SoundData="Special Fate, $1" SoundType="3" CategoryRestrict="False" Category="Endwalker Hunt" Timer="False" TimerName="" Tabbed="False" />
+		<Trigger Active="True" Regex="AddCombatant 03.*(?i)(Hulder|Storsie|Yilan|Sugriva|Minerva|Aegeiros|Mousse Princess|Lunatender Queen|Arch-Eta|Fan Ail|Gurangatch|Petalodus):00:5A:0\d{1,4}:.*" SoundData="A rank, $1" SoundType="3" CategoryRestrict="False" Category="Endwalker Hunt" Timer="False" TimerName="" Tabbed="False" />
+		<Trigger Active="True" Regex="AddCombatant 03.*(?i)(Iravati|Vajrakumara|Genesis Rock|Daphnia Magna|Ü-u-ü-u|Green Archon|Warmonger|Emperor's Rose|Level Cheater|Oskh Rhei|Yumcax|Shockmaw):00:5A:0\d{1,4}:.*" SoundData="B Rank, $1" SoundType="3" CategoryRestrict="False" Category="Endwalker Hunt" Timer="False" TimerName="" Tabbed="False" />
+		<Trigger Active="True" Regex="AddCombatant 03.*(?i)(Ker Shroud):00:5A:0\d{1,4}:.*" SoundData="SS rank add, $1" SoundType="3" CategoryRestrict="False" Category="Endwalker Hunt" Timer="False" TimerName="" Tabbed="False" />
+		<Trigger Active="True" Regex="AddCombatant 03.*(?i)(Ophioneus|Narrow-Rift|Armstrong|Ruminator|Ker):00:5A:0\d{1,4}:.*" SoundData="S rank, $1" SoundType="3" CategoryRestrict="False" Category="Endwalker Hunt" Timer="False" TimerName="" Tabbed="False" />
+	</CustomTriggers>
+</Config>
